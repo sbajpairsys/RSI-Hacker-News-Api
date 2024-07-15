@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Service\\HackerNews.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj",
+        "projectName": "HackerNews.Data",
+        "projectPath": "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj",
+        "projectName": "HackerNews.Data",
+        "projectPath": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Service\\HackerNews.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Service\\HackerNews.Business.csproj",
+        "projectName": "HackerNews.Business",
+        "projectPath": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Service\\HackerNews.Business.csproj",
+        "packagesPath": "C:\\Users\\saurabh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saurabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj": {
+                "projectPath": "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj"
+              },
+              "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj": {
+                "projectPath": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

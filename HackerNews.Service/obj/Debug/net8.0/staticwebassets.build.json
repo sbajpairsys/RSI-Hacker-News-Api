@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "iD8It6f7OM3dw00mke/F64QRuCtOD+iQh4sCSX7hZHA=",
+  "Source": "HackerNews.Business",
+  "BasePath": "_content/HackerNews.Business",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\saurabh\\Desktop\\Final\\RSI-Hacker-News-Api-main\\RSI-Hacker-News-Api-main\\HackerNews.Data\\HackerNews.Data.csproj",
+      "Version": 2,
+      "Source": "HackerNews.Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\saurabh\\Desktop\\HackerNews\\HackerNewsApi\\HackerNewsApi\\HackerNews.Data\\HackerNews.Data.csproj",
+      "Version": 2,
+      "Source": "HackerNews.Data",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
