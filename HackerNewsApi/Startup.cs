@@ -13,9 +13,9 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace HackerNewsApi
 {
+    [ExcludeFromCodeCoverage]
     public class Startup
     {
-        [ExcludeFromCodeCoverage]
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
